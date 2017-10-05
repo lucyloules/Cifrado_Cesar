@@ -14,7 +14,7 @@
 ##### 9. Declaramos la funcion desCipher
 
 ## Diagrama de Flujo
-![Flowchat Cifrado Cesar](http://dummyimage.com/150 "De 150 x 150 píxeles")
+![Flowchat Cifrado Cesar](https://github.com/lucyloules/Cifrado_Cesar/blob/master/Cifrado%20Cesar%20-%20Page%201.jpeg?raw=true)
 
 
 ###### *Autor: Lucia Lagos*
